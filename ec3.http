@@ -1,4 +1,4 @@
-@server = https://jeffersononsihuay-super-eureka-vxp7jxqww5jhpjqj-8080.preview.app.github.dev
+@server = https://evc3.onrender.com
 @api = {{server}}/api/ec3
 ###
 GET  {{server}}/api/ec3
