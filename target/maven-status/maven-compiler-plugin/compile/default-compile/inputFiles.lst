@@ -1,7 +1,5 @@
-/workspaces/test_evc3/src/main/java/com/example/test/ProductoRepository.java
-/workspaces/test_evc3/src/main/java/com/example/test/Usuario.java
-/workspaces/test_evc3/src/main/java/com/example/test/PedidoRepository.java
-/workspaces/test_evc3/src/main/java/com/example/test/Producto.java
-/workspaces/test_evc3/src/main/java/com/example/test/UsuarioRepository.java
-/workspaces/test_evc3/src/main/java/com/example/test/Pedido.java
+/workspaces/test_evc3/src/main/java/com/example/test/Instrumento.java
+/workspaces/test_evc3/src/main/java/com/example/test/Categoria.java
+/workspaces/test_evc3/src/main/java/com/example/test/InstrumentoRepository.java
 /workspaces/test_evc3/src/main/java/com/example/test/TestApplication.java
+/workspaces/test_evc3/src/main/java/com/example/test/CategoriaRepository.java
