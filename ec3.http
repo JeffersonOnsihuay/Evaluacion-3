@@ -1,6 +1,7 @@
-@server = INSERTAR URL DE RENDER ACÁ
+@server = https://jeffersononsihuay-super-eureka-vxp7jxqww5jhpjqj-8080.preview.app.github.dev
 @api = {{server}}/api/ec3
-
+###
+GET  {{server}}/api/ec3
 ################ Categorias: ################
 ###
 GET {{api}}/categorias
